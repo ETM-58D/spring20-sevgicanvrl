@@ -1,4 +1,4 @@
 ## Progress Journal
 
 ### Homework 0
-[Here](files/example_homework_0.html) is my interesting examples
+[Here](spring20-sevgicanvrl/example_homework_0.html) is my interesting examples
