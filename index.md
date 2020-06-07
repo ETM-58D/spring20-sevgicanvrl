@@ -4,13 +4,13 @@
 
 Here are the answers to Homework 2-3, prepared in collaboration with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80)
 
-[Part A]()
+[Part A](files/Homework2-3-PartA.html)
 
-[Part B]()
+[Part B](files/Homework2-3-PartB.html)
 
-[Part C]()
+[Part C](files/Homework2-3-PartC.html)
 
-[Part D]()
+[Part D](files/Homework2-3-PartD.html)
 
 ### Homework 1
 
