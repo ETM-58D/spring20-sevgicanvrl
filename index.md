@@ -1,5 +1,17 @@
 ## Progress Journal
 
+### Homework 2-3 
+
+Here are the answers to Homework 2-3, prepared in collaboration with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80)
+
+[Part A]()
+
+[Part B]()
+
+[Part C]()
+
+[Part D]()
+
 ### Homework 1
 
 You can find the answers of the Homework 1 which we prepared as a group with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80).
