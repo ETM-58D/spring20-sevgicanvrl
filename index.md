@@ -1,5 +1,9 @@
 ## Progress Journal
 
+### Homework 4 
+
+You can find the answers to Homework 4 [here](files/Homework4.html), prepared in collaboration with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80)
+
 ### Homework 2-3 
 
 Here are the answers to Homework 2-3, prepared in collaboration with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80)
