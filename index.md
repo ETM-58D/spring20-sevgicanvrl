@@ -1,5 +1,9 @@
 ## Progress Journal
 
+### Project
+
+The [report](files/ETM 58D Final Project.pdf) and the [code](files/Project_Submit.html) are available for Trendyol Sales Prediction Project, prepared in collaboration with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80)
+
 ### Homework 4 
 
 You can find the answers to Homework 4 [here](files/Homework4.html), prepared in collaboration with [Ceren Demirkol](https://etm-58d.github.io/spring20-cerendemirkol) & [Okan Güven](https://etm-58d.github.io/spring20-guven80)
